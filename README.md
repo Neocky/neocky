@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=%20Hi%20there%20👋%20&fontSize=60&textBg=true&animation=fadeIn)
 - 🔭 I’m currently working on automating all the things :butter:
 - 🌱 I’m currently learning PowerShell & Python
 - 😄 Pronouns: he/him
@@ -20,7 +19,7 @@
 **Neocky/neocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  height="165"
 Here are some ideas to get you started:
-  
+  ## Hi there 👋
 *NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.*  
 
 - 🔭 I’m currently working on ...
