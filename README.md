@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Neocky 👋
 
 - 🔭 I’m currently working on automating all the things :butter:
 - 🌱 I’m currently learning PowerShell & Python
