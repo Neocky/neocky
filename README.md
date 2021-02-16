@@ -1,12 +1,13 @@
 ## Hi there 👋
-
+<p align="right">  
+<img align="right" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372"/>  
+</p>  
+  
 - 🔭 I’m currently working on automating all the things :butter:
 - 🌱 I’m currently learning PowerShell & Python
 - 😄 Pronouns: he/him
 
-<p align="center">
-<img align="center" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372"/>  
-</p>
+
   
 ## Languages:
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" alt="PowerShell" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
