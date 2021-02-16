@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning PowerShell & Python
 - 😄 Pronouns: he/him
   
-<p align="left">
-<img align="left" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372"/>  
+<p align="center">
+<img align="center" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372"/>
 </p>
   
 ## Languages:
@@ -13,7 +13,6 @@
 
 ![Neocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neocky&theme=dark&show_icons=true)  
 
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neocky&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
