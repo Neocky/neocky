@@ -27,7 +27,7 @@ jobs:
         
           user: Neocky
           template: classic
-          base: ""
+          base: activity, repositories
           config_timezone: Europe/Berlin
           
           plugin_languages: yes
