@@ -12,7 +12,7 @@
 <a href="https://github.com/Neocky?tab=repositories&q=&type=&language=powershell" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" alt="PowerShell" width="40" height="40"/> </a>
 <a href="https://github.com/Neocky?tab=repositories&q=&type=&language=python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Neocky/Neocky/blob/master/github-metrics.svg)
 
 ![Neocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neocky&theme=dark&show_icons=true)  
 
