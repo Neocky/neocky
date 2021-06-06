@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - 🔭 I’m currently working on automating all the things :butter:
 - 🌱 I’m currently learning PowerShell & Python
@@ -12,11 +12,9 @@
 <a href="https://github.com/Neocky?tab=repositories&q=&type=&language=powershell" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" alt="PowerShell" width="40" height="40"/> </a>
 <a href="https://github.com/Neocky?tab=repositories&q=&type=&language=python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 
-![Metrics](https://github.com/Neocky/Neocky/blob/master/github-metrics.svg)
+## Github stats:
+[![Metrics](https://github.com/Neocky/Neocky/blob/master/github-metrics.svg)](https://github.com/Neocky?tab=repositories)
 
-![Neocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neocky&theme=dark&show_icons=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neocky&theme=dark&layout=compact)
 
 <!--
 **Neocky/neocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
