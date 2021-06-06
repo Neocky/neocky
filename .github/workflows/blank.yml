@@ -1,0 +1,42 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  schedule: 
+    - cron: "0 * * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    
+    
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: lowlighter/metrics@v3.10
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+        
+          user: Neocky
+          template: classic
+          base: ""
+          config_timezone: Europe/Berlin
+          
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
+          plugin_reactions_limit: 200
