@@ -14,7 +14,7 @@
 <a href="https://github.com/Neocky?tab=repositories&q=&type=&language=mcfunction"><img src="https://i.ibb.co/hfp88sv/Bedingter-Befehlsblock.gif" alt="Mcfunction" width="40" height="40"></a>
 
 
-[![Neocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neocky&show_icons=true&theme=dark)](https://github.com/Neocky?tab=repositories)  
+[![Neocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neocky&show_icons=true&e&include_all_commits=true&theme=dark)](https://github.com/Neocky?tab=repositories)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neocky&layout=compact&theme=dark)](https://github.com/Neocky?tab=repositories)
 
 <!--
