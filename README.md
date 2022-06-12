@@ -1,5 +1,5 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Neocky</h1>
-<h3 align="center">I'm working on automating all the boring stuff <img src="https://thumbs.gfycat.com/SimpleHarmfulCoelacanth-size_restricted.gif" width="30px"> </h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Neocky</h1>
+<h3 align="center">I'm working on automating all the boring stuff <img src="https://thumbs.gfycat.com/SimpleHarmfulCoelacanth-size_restricted.gif" width="30"> </h3>
 
 <p align="center">
 <img align="center" src="https://media4.giphy.com/media/l0NgQIwNvU9AUuaY0/giphy.gif?cid=790b7611386d2fc4148d2bdee8574f34dd1ba5b4ac056607&rid=giphy.gif&ct=g"/> 
