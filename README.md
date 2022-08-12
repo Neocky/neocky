@@ -2,6 +2,14 @@
 <h3 align="center">I'm working on automating all the boring stuff <img src="https://thumbs.gfycat.com/SimpleHarmfulCoelacanth-size_restricted.gif" width="30"> </h3>
 
 <p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github_hacker_guy_black.png.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github_hacker_guy_white.png.png">
+  <img src="./assets/github_hacker_guy_black.png" alt="hacker guy" border="0">
+</picture>
+</p>
+
+<p align="center">
 <img align="center" src="https://media4.giphy.com/media/l0NgQIwNvU9AUuaY0/giphy.gif?cid=790b7611386d2fc4148d2bdee8574f34dd1ba5b4ac056607&rid=giphy.gif&ct=g"/> 
 </p>
 
