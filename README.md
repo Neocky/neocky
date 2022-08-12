@@ -28,6 +28,7 @@ Neocky@life:~$ whoami
 
 <hr style="border:1px solid gray"> </hr>
 
+<h3 align="center" style="margin-top: 0px;">Check out my repositories below!</h3>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github_hacker_guy_black.png">
@@ -35,5 +36,4 @@ Neocky@life:~$ whoami
   <img src="./assets/github_hacker_guy_black.png" alt="hacker guy" border="0">
 </picture>
 </p>
-<h3 align="center" style="margin-top: 0px;">Check out my repositories below!</h3>
 
