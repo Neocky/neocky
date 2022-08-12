@@ -3,8 +3,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github_hacker_guy_black.png.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github_hacker_guy_white.png.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github_hacker_guy_black.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github_hacker_guy_white.png">
   <img src="./assets/github_hacker_guy_black.png" alt="hacker guy" border="0">
 </picture>
 </p>
