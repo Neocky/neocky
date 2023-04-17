@@ -6,7 +6,7 @@
 </p>
 
 
-## 💡 About me: 
+## 💡 About me:  
 ```python
 Neocky@life:~$ whoami
 - 🔭 I'm in love with automation and currently working on automating all the things
