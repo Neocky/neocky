@@ -21,6 +21,11 @@ Neocky@life:~$ whoami
 <a href="https://github.com/Neocky?tab=repositories&q=&type=&language=mcfunction"><img src="https://i.ibb.co/hfp88sv/Bedingter-Befehlsblock.gif" alt="Mcfunction" width="40" height="40"></a>
 
 ### :octocat: Github stats:
-[![Neocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neocky&show_icons=true&e&include_all_commits=true&theme=midnight-purple&hide_border=true)](https://github.com/Neocky?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neocky&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10)](https://github.com/Neocky?tab=repositories)  
+<a href="https://github.com/Neocky?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Neocky&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&hide_border=true" alt="Neocky's Github stats" />
+</a>
+<a href="https://github.com/Neocky?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neocky&theme=catppuccin_mocha&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10&card_width=320" alt="Top languages" />
+</a>
+
 *\*NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.* 
